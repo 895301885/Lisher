@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+   
+    <Button 
+        android:id="@+id/fragment2_bt_nexttoactivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="TwoActicvity"
+        android:textSize="20dp"
+        />
+     <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:shadowColor="#007D47"
+        android:text="Fragment_B"
+        android:textColor="#007D47" 
+        android:shadowRadius="5"/>
+
+</LinearLayout>

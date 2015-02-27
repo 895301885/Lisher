@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:background="#FFFFFF"
+        android:shadowColor="#007D47"
+        android:text="Fragment_A"
+        android:textColor="#007D47" 
+        android:shadowRadius="6"/>
+
+</LinearLayout>
