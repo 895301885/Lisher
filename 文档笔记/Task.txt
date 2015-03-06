@@ -3,8 +3,10 @@
 Android性能分析，
 左划菜单的动画，
 微商城；
-handler、message、looper、Binder，
+handler、message、looper，
 极客学院MD；
 版本问题
 内存溢出；
-+
+service,Binder;
+网络请求；
+http https tcp握手抓包等等；
