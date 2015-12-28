@@ -1,4 +1,4 @@
 修改数据库远程访问权限：
 grant all PRIVILEGES on walw.* to root@'%'  identified by '123456';
-
 flush privileges;（立即生效）
+*************************************
